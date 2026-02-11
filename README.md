@@ -7,10 +7,10 @@ Module Python capable de gérer des statistiques de notes (moyenne, min, max).
 
 | Rôle | Nom de l'étudiant |
 |------|-------------------|
-| Chef de Projet | | SAIDANI Rayane
-| Architecte | | Fridi Marwa
-| Développeur | | Kortbi Fares
-| Responsable Qualité | | Ben Akli Ines
+| Chef de Projet |SAIDANI Rayane |
+| Architecte | Fridi Marwa |
+| Développeur |Kortbi Fares |
+| Responsable Qualité |Ben Akli Ines |
 
 ## Description
 
